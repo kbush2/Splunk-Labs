@@ -1,3 +1,4 @@
+![Search executed](media/Search%20executed.png)
 # Lab 01 — Save a Search as a Report (test)
 
 ![Search](media/lab01_report_01_search.png)
