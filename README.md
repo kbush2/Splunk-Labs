@@ -1,5 +1,6 @@
+## Lab 01 — Save a Search as a Report 
 ![Search executed](media/Search%20executed.png)
-# Lab 01 — Save a Search as a Report (test)
+
 
 **2) Save As menu**  
 ![Save As menu](media/Save%20As%20menu.png)
