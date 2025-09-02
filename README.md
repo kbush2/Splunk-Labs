@@ -1,8 +1,8 @@
 ![Search executed](media/Search%20executed.png)
 # Lab 01 — Save a Search as a Report (test)
 
-**2) Save As Menu**  
-![Save As Menu](media/Save%20As%20Menu.png)
+**2) Save As menu**  
+![Save As menu](media/Save%20As%20menu.png)
 
 **3) Save Report — Title & Description**  
 ![Save Report — Title & Description](media/Save%20Report%20dialog%20-%20Title%20%26%20Description.png)
