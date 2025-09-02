@@ -1,20 +1,14 @@
 ![Search executed](media/Search%20executed.png)
 # Lab 01 — Save a Search as a Report (test)
 
-![Search](media/lab01_report_01_search.png)
-## Lab 01 — Save a Search as a Report
+**2) Save As Menu**  
+![Save As Menu](media/Save%20As%20Menu.png)
 
-**1) Ran base search**  
-![Search](media/lab01_report_01_search.png)
+**3) Save Report — Title & Description**  
+![Save Report — Title & Description](media/Save%20Report%20dialog%20-%20Title%20%26%20Description.png)
 
-**2) Save As → Report**  
-![Save As](media/lab01_report_02_saveas.png)
+**4) Reports listing with new report visible**  
+![Reports listing with new report visible](media/Reports%20listing%20with%20new%20report%20visible.png)
 
-**3) Title & Description**  
-![Title](media/lab01_report_03_title.png)
-
-**4) Reports list (report created)**  
-![Reports](media/lab01_report_04_reports-list.png)
-
-**5) Opened report**  
-![Opened](media/lab01_report_05_opened.png)
+**5) Opened report page**  
+![Opened report page](media/Opened%20report%20page.png)
