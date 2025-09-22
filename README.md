@@ -36,14 +36,14 @@ This repository contains hands-on labs I’ve completed while learning **Splunk*
 ![Ran base search](media/01_Search_executed.png)
 
 ### Step 2 — Save As menu
-![Save As menu](media/02_save_as_menu.png)
+![Save As menu](media/02_Save_As_menu.png)
 
 ### Step 3 — Save Report dialog
-![Save Report dialog](media/03_save_report_dialog.png)
+![Save Report dialog](media/03_Save_Report_dialog_Title_&_Description.png)
 
 ### Step 4 — Reports listing
-![Reports listing](media/04_reports_listing.png)
+![Reports listing](media/04_Reports_listing_with_new_report_visible.png)
 
 ### Step 5 — Opened report page
-![Opened report](media/05_opened_report.png)
+![Opened report](media/05_Opened_report_page.png)
 
