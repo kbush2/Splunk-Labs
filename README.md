@@ -33,7 +33,7 @@ This repository contains hands-on labs I’ve completed while learning **Splunk*
 ## Evidence
 
 ### Step 1 — Ran base search
-![Ran base search](media/01_ran_base_search.png)
+![Ran base search](Search executed.png)
 
 ### Step 2 — Save As menu
 ![Save As menu](media/02_save_as_menu.png)
