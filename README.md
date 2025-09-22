@@ -39,7 +39,7 @@ This repository contains hands-on labs I’ve completed while learning **Splunk*
 ![Save As menu](media/02_Save_As_menu.png)
 
 ### Step 3 — Save Report dialog
-![Save Report dialog](![Save Report dialog](media/03_Save_Report_dialog_Title_and_Description.png)
+![Save Report dialog](media/03_Save_Report_dialog_Title_and_Description.png)
 
 ### Step 4 — Reports listing
 ![Reports listing](media/04_Reports_listing_with_new_report_visible.png)
