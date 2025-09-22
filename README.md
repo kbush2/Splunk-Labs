@@ -32,15 +32,18 @@ This repository contains hands-on labs I’ve completed while learning **Splunk*
 
 ## Evidence
 
-Search executed (failed password root):  
-![Failed root login search](media/search_failed_root.png)
+### Step 1 — Ran base search
+![Ran base search](media/01_ran_base_search.png)
 
-Saved as report:  
-![Saved report screenshot](media/save_as_report.png)
+### Step 2 — Save As menu
+![Save As menu](media/02_save_as_menu.png)
 
-Report listing:  
-![Reports listing](media/report_listing.png)
+### Step 3 — Save Report dialog
+![Save Report dialog](media/03_save_report_dialog.png)
 
-Opened report page:  
-![Opened report page](media/opened_report.png)
- 
+### Step 4 — Reports listing
+![Reports listing](media/04_reports_listing.png)
+
+### Step 5 — Opened report page
+![Opened report](media/05_opened_report.png)
+
