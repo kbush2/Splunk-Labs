@@ -30,5 +30,17 @@ This repository contains hands-on labs I’ve completed while learning **Splunk*
 
 ## 📸 Evidence
 
-All screenshots are stored in the `media/` folder and linked in each lab’s README.  
-Naming follows a consistent format:  
+## Evidence
+
+Search executed (failed password root):  
+![Failed root login search](media/search_failed_root.png)
+
+Saved as report:  
+![Saved report screenshot](media/save_as_report.png)
+
+Report listing:  
+![Reports listing](media/report_listing.png)
+
+Opened report page:  
+![Opened report page](media/opened_report.png)
+ 
