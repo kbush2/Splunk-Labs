@@ -20,10 +20,12 @@ This repository contains hands-on labs I’ve completed while learning **Splunk*
 
 ## 🗂 Labs Included
 
-- 🔹 [Lab 1 — Reports & Base Searches](./Lab1-Splunk-Reports/)  
+- 🔹 [Lab 1 — Reports & Base Searches](./Lab1-Splunk-Reports/Lab1-Splunk-Reports.md)  
   - Ran a base search  
-  - Saved searches as reports  
-  - Viewed saved reports  
+  - Used **Save As → Report** to create a new report  
+  - Added a title and description in the Save Report dialog  
+  - Verified the report appeared in the Reports listing  
+  - Opened the saved report to review details
 
 - 🔹 [Lab 2 — Alerts & Reports](./Splunk-Lab-2.md)  
   - Created and viewed alerts  
