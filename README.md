@@ -20,23 +20,16 @@ This repository contains hands-on labs I’ve completed while learning **Splunk*
 
 ## 🗂 Labs Included
 
-- 🔹 [Lab 1 — Reports & Base Searches](./Lab1-Splunk-Reports/Lab1-Splunk-Reports.md)  
+- 🔹 [Lab 1 — Reports & Base Searches](./Lab1-Splunk-Reports/)  
   - Ran a base search  
   - Saved searches as reports  
   - Viewed saved reports  
 
-- 🔹 [Lab 2 — Alerts & Reports](./Lab2-Splunk-Alerts/Lab2-Splunk-Alerts.md)  
+- 🔹 [Lab 2 — Alerts & Reports](./Splunk-Lab-2.md)  
   - Created and viewed alerts  
   - Disabled alerts  
   - Saved searches and alert results as reports  
-  - Scheduled a report to run daily  
-
-- 🔹 [Lab 3 — Visualizations & Lookups (coming soon)](./Lab3-Splunk-Visualizations/Lab3-Splunk-Visualizations.md)  
-  - Timeline and trendline visualizations  
-  - Timechart commands  
-  - Geospatial lookup (Canada.kml)  
-  - CSV lookups to enrich data  
-  - Retail sales chart overlays  
+  - Scheduled a report to run daily 
  
 
 *(Additional labs will be added as I progress.)*
