@@ -16,18 +16,26 @@
 
 ---
 
- ## Evidence
-Step 1 — Created new alert (Failed Logins)
+ ## Evidence  
 
-Step 2 — Viewed the alert in Alerts dashboard
+### Step 1 — Created new alert (Failed Logins)  
+![Create Alert](01_create_an_alert.png)  
 
-Step 3 — Disabled alert after testing
+### Step 2 — Viewed the alert in Alerts dashboard  
+![Alerts Dashboard](02_view_the_alert.png)  
 
-Step 4 — Saved search as a report
+### Step 3 — Disabled alert after testing  
+![Disabled Alert](03_disable_the_alert.png)  
 
-Step 5 — Saved alert results as report
+### Step 4 — Saved search as a report  
+![Saved Search Report](04_save_search_as_report.png)  
 
-Step 6 — Scheduled report at 6:00 a.m.
+### Step 5 — Saved alert results as report  
+![Saved Alert Results](05_save_alert_results_as_report.png)  
+
+### Step 6 — Scheduled report at 6:00 a.m.  
+![Scheduled Report](06_schedule_failed_logins_report_at_6am.png)  
+
 
 ---
 
