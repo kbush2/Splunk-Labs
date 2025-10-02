@@ -14,16 +14,22 @@
 
 ---
 
-## Evidence  
+## Evidence
 
-### Step 1 — Base search executed  
-![Search Executed](01_Search_executed.png)  
+### Step 1 — Base search executed
+![Search Executed](./media/01_Search_executed.png)
 
-### Step 2 — Saved search as report  
-![Saved Report](02_saved_report.png)  
+### Step 2 — Save As menu opened
+![Save As Menu](./media/02_Save_As_menu.png)
 
-### Step 3 — Viewed saved reports in dashboard  
-![Reports Dashboard](03_reports_dashboard.png)  
+### Step 3 — Save Report dialog (title & description)
+![Save Report Dialog](./media/03_Save_Report_dialog_Title_and_Description.png)
+
+### Step 4 — Reports listing showing new report
+![Reports Listing](./media/04_Reports_listing_with_new_report_visible.png)
+
+### Step 5 — Opened report page
+![Opened Report Page](./media/05_Opened_report_page.png)
 
 ---
 
